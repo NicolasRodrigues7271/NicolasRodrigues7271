@@ -3,7 +3,7 @@
 <p align="center"> Desenvolvimento de sistemas </p>
 <h2 align="center"> Linguagens: </h2>
 <p align="center"> Python </p>
-<h3>
+<h3 align="center">
   <img src="banner.gif" width="30%">
 </h3>
 
